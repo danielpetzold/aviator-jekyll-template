@@ -3,7 +3,6 @@
 
 title: Aviator
 description: Jekyll template for API documentation.
-url: https://example.com
 baseurl: /aviator-jekyll-template/
 google_analytics_key:
 permalink: pretty
